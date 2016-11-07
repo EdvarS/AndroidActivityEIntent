@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidActivityEIntent</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="iot">IoT</string>
+    <string name="web">Web</string>
+
+    <string name="inscrito_em">%1$s você esta inscrito na trilha %2$s</string>
+</resources>

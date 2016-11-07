@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="trilhas">
+        <item>@string/iot</item>
+        <item>@string/mobile</item>
+        <item>@string/web</item>
+    </string-array>
+
+</resources>
